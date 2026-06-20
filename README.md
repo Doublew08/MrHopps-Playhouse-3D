@@ -1,4 +1,4 @@
-# ðŸ° Mr. Hopp's Playhouse 3D
+# Mr. Hopp's Playhouse 3D
 
 <p align="center">
   <b>A 3D mechanical translation of the 2D indie horror game Mr. Hopp's Playhouse.</b><br/>
